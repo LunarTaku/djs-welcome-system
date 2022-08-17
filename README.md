@@ -1,7 +1,11 @@
 ![Image](https://cdn.discordapp.com/attachments/1007859633400053863/1009080383280783360/WelcomeSys-IMG.jpg)
 
-# djs-welcome-system
+# djs-welcome-system v2
 This system allows you to greet members when they join your server, full multi guild setup with add, remove, and replace channel commands!
+
+# V2 Changelog
+- Added leave messages thanks to Ducko#7068 on discord.
+- Fixed some `Unkown Interaction` errors.
 
 ## Dependencies:
 > mongoose => `npm i mongoose`
