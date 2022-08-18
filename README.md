@@ -21,6 +21,11 @@ This system allows you to greet members when they join your server, full multi g
 # MongoDB Connection:
 > be sure to add this to your ready.js file.
 ```
+    // Add this to the top of the file
+    const { connect } = require('mongoose')
+    const chalk = require("chalk")
+    
+    // Add this to your ready.js file
     await connect(MONGO_URI)
       .then(() => {
         console.log(chalk.yellow(`✅ >>> Successfully connected to MongoDB!`));
