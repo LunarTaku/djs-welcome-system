@@ -37,3 +37,6 @@ This system allows you to greet members when they join your server, full multi g
 
 # Contributing:
 > if you want to contribute create a fork of this project and when you are done editing it update the fork and create a pull request.
+
+# Community Versions:
+- by Ducko#7068: https://github.com/DuckoDas/djs-welcome-system
